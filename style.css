@@ -1,0 +1,17 @@
+body {
+    background-color: cadetblue;
+    color: rgb(80, 36, 121);
+}
+.texto {
+    color: black;
+}
+img {
+    width: 350px; 
+    height: auto;
+}
+.subtitulo {
+    color:rgb(91, 53, 126);
+}
+.legenda {
+    color: rgb(84, 54, 112);
+}
