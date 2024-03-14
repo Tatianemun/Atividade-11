@@ -2,16 +2,50 @@ body {
     background-color: cadetblue;
     color: rgb(80, 36, 121);
 }
-.texto {
-    color: black;
-}
-img {
-    width: 350px; 
-    height: auto;
-}
-.subtitulo {
-    color:rgb(91, 53, 126);
-}
-.legenda {
-    color: rgb(84, 54, 112);
-}
+
+h1 {
+    color: rgb(91, 53, 126);
+    text-align: center;
+
+
+    font-family: "Angkor", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2em;
+  }
+  
+p {
+    font-family:initial;
+    font-size: 1.1em;
+    color:black;
+  }
+
+h2{
+    font-size: 1.55em;
+    text-align: left;
+  }
+  
+a{
+    font-size: 1.4em;
+  }
+
+  #tit1{
+    color: rgb(38, 16, 58);
+  }
+
+
+.texto{
+    color:black;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
